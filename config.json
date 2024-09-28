@@ -25,8 +25,8 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "BOT-BABU",
-    "PREFIX": "#",
+    "BOTNAME": "basanti bot",
+    "PREFIX": ".",
     "OTHERBOT": [
         ""
     ],
