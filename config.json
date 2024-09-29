@@ -6,7 +6,7 @@
     "allowInbox": true,
     "autoClean": false,
     "adminOnly": false,
-    "keyAdminOnly": "",
+    "keyAdminOnly": "100030585286077",
     "commandDisabled": [
         "",
         "",
@@ -22,7 +22,7 @@
         ""
     ],
     "eventDisabled": [],
-    "EMAIL": "",
+    "EMAIL": "sumitkumarsaini62626@gmail.com",
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "basanti bot",
@@ -31,15 +31,15 @@
         ""
     ],
     "UNSENTVIP": [
-        "",
+        "100030585286077",
         ""
     ],
     "GOD": [
-        "",
+        "100030585286077",
         ""
     ],
     "ADMINBOT": [
-        "",
+        "100030585286077",
         ""
     ],
     "OWNER": "VIRAT SAINI",
